@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "smarter.LoveLog/MainVC/Set/Controller/Login/LoginViewController.m"
+            timestampString = "488342597.232337"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "-initView"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "smarter.LoveLog/MainVC/Main/Controller/MaskDetailViewController.m"
+            timestampString = "495108043.338604"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "545"
+            endingLineNumber = "545"
+            landmarkName = "-joinShoppingCart:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MaskDetailViewController joinShoppingCart:]"
+                  moduleName = "&#x7231;&#x7684;&#x65e5;&#x5fd7;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/FanKangpeng/Desktop/smarter.LoveLog/smarter.LoveLog/MainVC/Main/Controller/MaskDetailViewController.m"
+                  timestampString = "495108277.880244"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "545"
+                  endingLineNumber = "545"
+                  offsetFromSymbolStart = "872">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MaskDetailViewController joinShoppingCart:]"
+                  moduleName = "&#x7231;&#x7684;&#x65e5;&#x5fd7;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/FanKangpeng/Desktop/smarter.LoveLog/smarter.LoveLog/MainVC/Main/Controller/MaskDetailViewController.m"
+                  timestampString = "495108277.880351"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "545"
+                  endingLineNumber = "545"
+                  offsetFromSymbolStart = "1756">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "smarter.LoveLog/MainVC/Main/Controller/MaskDetailViewController.m"
+            timestampString = "495108044.564845"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "559"
+            endingLineNumber = "559"
+            landmarkName = "-joinShoppingCart:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__45-[MaskDetailViewController joinShoppingCart:]_block_invoke.392"
+                  moduleName = "&#x7231;&#x7684;&#x65e5;&#x5fd7;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/FanKangpeng/Desktop/smarter.LoveLog/smarter.LoveLog/MainVC/Main/Controller/MaskDetailViewController.m"
+                  timestampString = "495108277.881132"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "559"
+                  endingLineNumber = "559"
+                  offsetFromSymbolStart = "308">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__45-[MaskDetailViewController joinShoppingCart:]_block_invoke.392"
+                  moduleName = "&#x7231;&#x7684;&#x65e5;&#x5fd7;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/FanKangpeng/Desktop/smarter.LoveLog/smarter.LoveLog/MainVC/Main/Controller/MaskDetailViewController.m"
+                  timestampString = "495108277.881315"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "559"
+                  endingLineNumber = "559"
+                  offsetFromSymbolStart = "1204">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "smarter.LoveLog/MainVC/Main/Controller/MaskDetailViewController.m"
+            timestampString = "495108046.061101"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "564"
+            endingLineNumber = "564"
+            landmarkName = "-joinShoppingCart:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__45-[MaskDetailViewController joinShoppingCart:]_block_invoke.392"
+                  moduleName = "&#x7231;&#x7684;&#x65e5;&#x5fd7;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/FanKangpeng/Desktop/smarter.LoveLog/smarter.LoveLog/MainVC/Main/Controller/MaskDetailViewController.m"
+                  timestampString = "495108277.882099"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "564"
+                  endingLineNumber = "564"
+                  offsetFromSymbolStart = "1252">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__45-[MaskDetailViewController joinShoppingCart:]_block_invoke.392"
+                  moduleName = "&#x7231;&#x7684;&#x65e5;&#x5fd7;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/FanKangpeng/Desktop/smarter.LoveLog/smarter.LoveLog/MainVC/Main/Controller/MaskDetailViewController.m"
+                  timestampString = "495108277.882199"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "564"
+                  endingLineNumber = "564"
+                  offsetFromSymbolStart = "2204">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

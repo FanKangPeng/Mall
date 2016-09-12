@@ -1,0 +1,48 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <UIImageView+WebCache.h>
+    #import <Foundation/Foundation.h>
+    #import "AppDelegate.h" 
+    #import "BaseViewController.h"
+    #import "MBProgressHUD.h"
+    #import "MJRefresh.h"
+    #import "NetFaileView.h"
+    #import "SetNetWorkingView.h"
+    #import "LCNavigationController.h"
+    #import "UConstants.h"
+    #import "MJExtension.h"
+    #import "UIViewExt.h"
+    #import <UIView+SDAutoLayout.h>
+    #import <UITableView+SDAutoTableViewCellHeight.h>
+    #import "LoadGIF_M.h"
+#endif
+
+
+//融云相关宏定义
+#define RONGCLOUD_IM_APPKEY @"k51hidwq18v4b"
+#define KNOTIFICATION_CHAT @"KNOTIFICATION_CHAT"
+#define DEV_FAKE_SERVER @"http://119.254.110.241/" //Beijing SUN-QUAN  测试环境（北京）
+#define PRO_FAKE_SERVER @"http://119.254.110.79:8080/" //Beijing Liu-Bei    线上环境（北京）、
+#define FAKE_SERVER @"http://webim.demo.rong.io/"//@"http://119.254.110.241:80/" //Login 线下测试
+
+//服务器URL
+
+#define LoveLog_Host @"http://mapp.aiderizhi.com/?url="
+
+//跳转到登录的通知名称
+#define LogIn  @"logIn"
+
+//支付宝秘钥
+#define PartnerPrivateKey   @"MIICdwIBADANBgkqhkiG9w0BAQEFAASCAmEwggJdAgEAAoGBANmJAV2A+04Vvu5RX+uTwSrDB1ospI3Ki08jlIyKMl17pqxEjG0Pvx4zHrdKXpgzEX/Mp4bGtWrEaHR5Ht2VfVoH+YoBEi9+gOPLxSsIEUruJxHg1yWxSSrtbTMbOXoq/SVi8Hq3x7jj4m84IvcCAf70n/c2QCMzwJgPq+WRjh9bAgMBAAECgYAIwZkKeHylIf7zfNcNln76B6uuF4nwIy0EXHxIQ+/PD4EgAgpdAXtB7fDYk+fG3Jdhu40qwajfyVQjDBUP+kp3WEdSPpTBWl2MeG3JWFCn4hU3QuGehEfBeLgWvIBy3TH0J2iLjnqwtlOfRntaZbVJ7CSBUeKg9rc6/PVjjixLQQJBAOxMHcPXXsdsO+Bf3GD92opZ7/jPKZMcAs5GFHtnAkJTnQY3PFd0KhUtGoP9epnRI6hYI03UCfOIq+qdIEU2TPECQQDrrGbQcb+G3Bh95/MIs4qFE9fzM+gjAIp6ONWXKtbaBsHfqgLi7DAwTSUkdiP+o2dKGqhlB94ePAbpDGRMKeELAkEAlhIJXVWs1g6BQJDhD6BpaTCRXX2EM++4QHT1kSHsp18e/NGbuxcFmwlYK7eSY5oVgVbopQcjgs2sEYbU9d/0oQJAEdjddF2Y1nqmdCpzki4eiFNnYCiHJNdupTDWo/r/iEVIu0phq5OdVpsQ/ADiWu8+7DK2m+gLnxiGoXFpywbE3wJBAMZfWV34C364v/sfb5zc1Glh7oWjTGY1UzCarTiq1dneMc3TdyQc4sMGivhwuP/1t0ybgGQA5VmNUmdnSEF+iZM="
